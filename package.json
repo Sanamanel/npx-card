@@ -1,6 +1,6 @@
 {
   "name": "@sanamanel/npx-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " npx business card",
   "main": "index.js",
   "bin": {
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/Sanamanel/npx-card.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["card"],
+  "author": "Rachida",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sanamanel/npx-card/issues"
