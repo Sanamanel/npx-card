@@ -4,7 +4,7 @@
   "description": " npx business card",
   "main": "index.js",
   "bin": {
-    "sanamanel": "index.js"
+    "npx-card": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Sanamanel/npx-card/issues"
   },
-  "homepage": "https://github.com/Sanamanel/npx-card#readme"
+  "homepage": "https://github.com/Sanamanel/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  }
 }
